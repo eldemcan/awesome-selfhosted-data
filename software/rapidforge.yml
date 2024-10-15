@@ -1,0 +1,16 @@
+name: RapidForge
+website_url: https://rapidforge.io
+description: Create Apps, Automate Tasks and Build Pages. Utilize existing command line tools and scripts
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Automation
+  - SOAR
+  - Bash
+source_code_url: https://github.com/rapidforge-io/release/releases
+stargazers_count: 11
+updated_at: '2024-10-08'
+archived: false
